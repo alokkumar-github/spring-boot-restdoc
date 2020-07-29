@@ -12,3 +12,4 @@ https://github.com/asciidoctor/asciidoctor-maven-examples
 swagger - 3
 https://springdoc.org/faq.html
 https://www.dariawan.com/tutorials/spring/documenting-spring-boot-rest-api-springdoc-openapi-3/
+https://github.com/springdoc/springdoc-openapi
